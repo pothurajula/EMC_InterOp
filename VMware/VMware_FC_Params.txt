@@ -1,0 +1,5 @@
+ql2xmaxqdepth=255
+ql2xloginretrycount=60
+qlport_down_retry=60
+lpfc_devloss_tmo=60
+lpfc_lun_queue_depth=254
