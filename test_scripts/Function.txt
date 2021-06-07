@@ -1,0 +1,11 @@
+Functions to be defined:
+1. Function to get user input like file with host name, FC/SAS/iSCSI.
+2. Get hostname from sheet. Return hostname
+2. Capture hostname and connect to HKLM Registry. Return connection object.
+3. Basing on Topology type, use th connection object from above command and get the variables from mpio_parameters. Call
+ function to check if the registry entry exists
+4. Function to check if registry entry exits. If it exists, call function to check the value. If it doesn't exist, call
+   function to create the entry.
+5. Function to compare registry entry with golden values.
+6. Function to create or set the registry entry with the values.
+"""

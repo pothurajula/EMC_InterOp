@@ -1,0 +1,9 @@
+PDORemovePeriod=120
+PathRecoveryInterval=25
+UseCustomPathRecoveryInterval=1
+PathVerifyEnabled=1
+PathVerificationPeriod=30
+RetryInterval=1
+DiskPathCheckDisabled=0
+RetryCount=3
+DiskPathCheckInterval=25

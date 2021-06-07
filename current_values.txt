@@ -1,0 +1,24 @@
+***************************************************************
+Current registry Value are below for host: benny.lab.beer.town
+PDORemovePeriod=120
+PathRecoveryInterval=25
+UseCustomPathRecoveryInterval=1
+PathVerifyEnabled=1
+PathVerificationPeriod=30
+RetryInterval=1
+DiskPathCheckDisabled=0
+RetryCount=3
+DiskPathCheckInterval=25
+
+***************************************************************
+Current registry Value are below for host: 100.91.101.76
+PDORemovePeriod=120
+PathRecoveryInterval=25
+UseCustomPathRecoveryInterval=1
+PathVerifyEnabled=1
+PathVerificationPeriod=30
+RetryInterval=1
+DiskPathCheckDisabled=0
+RetryCount=3
+DiskPathCheckInterval=25
+

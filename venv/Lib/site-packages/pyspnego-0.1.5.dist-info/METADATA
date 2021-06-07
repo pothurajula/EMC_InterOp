@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyspnego
+Version: 0.1.5
+Summary: Windows Negotiate Authentication Client and Server
+Home-page: https://github.com/jborean93/pyspnego
+Author: Jordan Borean
+Author-email: jborean93@gmail.com
+License: MIT
+Requires-Dist: cryptography
+Requires-Dist: enum34 ; python_version<"3.5"
+Provides-Extra: kerberos
+Requires-Dist: gssapi (>=1.5.0) ; (sys_platform!="win32") and extra == 'kerberos'
+Provides-Extra: yaml
+Requires-Dist: ruamel.yaml ; extra == 'yaml'
+
+# Python SPNEGO Library
+
+
